@@ -1,4 +1,6 @@
 Movie Review Sentiment Analysis
+
+
 This project is a Sentiment Analysis model built to classify movie reviews as positive or negative. It was created using Natural Language Processing (NLP) techniques and machine learning, and it focuses on assessing the effectiveness of various classification metrics.
 
 Overview
